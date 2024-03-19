@@ -10,5 +10,6 @@ Octocat meme is an entertaining project pay tribute to programmer to inspire the
 
 # Contribution Way
 1. Starred this project on github
-2. Follow the octocatmeme on X/Twitter via https://twitter.com/otcocatmeme
+2. Follow the octocatmeme on X/Twitter via https://twitter.com/otcocatmeme  
+
 The top 1000 users remarked as Seed Contributors--Opening
